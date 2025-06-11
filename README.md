@@ -21,3 +21,7 @@ This project features a data dashboard built in Microsoft Excel to visualize and
 
 ## 🔗 View the Project
 (https://github.com/YourUsername/excel-dashboard-analysis)
+
+⚠️ Note:
+After downloading the Excel file, please click **"Enable Editing"** in the yellow bar at the top to activate internal links and full dashboard functionality.
+
